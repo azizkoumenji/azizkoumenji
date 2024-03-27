@@ -1,10 +1,3 @@
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/azizkoumenji/count.svg" alt="" /></td>
-  </tr>
-</table>
-
 <!--
 **azizkoumenji/azizkoumenji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
