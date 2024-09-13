@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Aziz Koumenji</h1>
-<h3 align="center">I'm a computer science student and a passionate full stack developer.</h3>
+<h3 align="center">I'm currently finishing my computer science bachelor's degree and learning full stack web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizkoumenji&label=Profile%20views&color=0e75b6&style=flat" alt="azizkoumenji" /> </p>
 
